@@ -11,7 +11,7 @@ Integrating is as simple as adding 1 line to your main target in your projects `
 - For React Native this would be inside the target that has all your local `React-*` pods included.
 
 ```ruby
-pod 'MobileRTC', :podspec => 'https://github.com/rentready/zoom-ios-sdk-frameworks/raw/5.17.6.13115/MobileRTC.podspec'
+pod 'MobileRTC', :podspec => 'https://github.com/rentready/zoom-ios-sdk-frameworks/raw/5.17.10.13930/MobileRTC.podspec'
 ```
 > **⚠️ Note:** Due to a known bug in CocoaPods [Cocoapods Won't Download Source if Podfile Uses :path or :git to Refer to Podspec File](https://github.com/CocoaPods/CocoaPods/issues/11867), using the `:git` option with a specific tag to include the pod may not work as expected.
 
@@ -24,11 +24,11 @@ See [SDK minimum version policy](https://developers.zoom.us/docs/video-sdk/minim
 The below are the currently supported Zoom iOS SDK versions of this repository, this list is updated automatically.
 
 <!--NEW_VERSION_PLACEHOLDER-->
+- [5.17.10.13930](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.10.13930)
 - [5.17.6.13115](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.6.13115)
 - [5.17.5.13103](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.5.13103)
 - [5.17.1.12530](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.1.12530)
 - [5.17.0.12370](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.0.12370)
-- [5.16.10.11693](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.16.10.11693)
 
 ...and [more](https://github.com/rentready/zoom-ios-sdk-frameworks/tags)
 
