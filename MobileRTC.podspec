@@ -1,4 +1,4 @@
-zoom_sdk_version = '5.17.0.12370'
+zoom_sdk_version = '5.17.1.12530'
 
 Pod::Spec.new do |s|
     s.name             = 'MobileRTC'
