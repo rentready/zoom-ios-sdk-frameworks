@@ -24,6 +24,7 @@ See [SDK minimum version policy](https://developers.zoom.us/docs/video-sdk/minim
 The below are the currently supported Zoom iOS SDK versions of this repository, this list is updated automatically.
 
 <!--NEW_VERSION_PLACEHOLDER-->
+- [6.0.2.15147](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/6.0.2.15147)
 - [5.17.10.13930](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.10.13930)
 - [5.17.6.13115](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.6.13115)
 - [5.17.5.13103](https://github.com/rentready/zoom-ios-sdk-frameworks/releases/tag/5.17.5.13103)
